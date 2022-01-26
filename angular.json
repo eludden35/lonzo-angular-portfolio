@@ -27,7 +27,7 @@
                 "ngx-lightbox",
                 "zone.js/dist/zone-error"
               ],
-            "outputPath": "dist/ng-bolby",
+            "outputPath": "dist/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
